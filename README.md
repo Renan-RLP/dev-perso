@@ -1,2 +1,10 @@
-# dev-perso
-Dossier de développement pour des projets perso
+# Projets personnels 
+
+Dossier de développement de projets perso :
+- RaspberryPI
+- Python
+- Services Linux
+- Automatisation
+- Scripting
+- Domotique
+- Robotique
